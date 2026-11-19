@@ -46,7 +46,7 @@ export const Footer: React.FC = () => {
               AI &amp; Machine Learning | Full Stack Developer
             </p>
             <p className="mt-1 text-xs text-slate-400 max-w-md">
-              Graduated from Manakula Vinayagar Institute of Technology, Puducherry (CGPA 8.40/10).
+              Graduated from Manakula Vinayagar Institute of Technology, Puducherry.
             </p>
           </div>
 
